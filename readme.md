@@ -1,0 +1,1 @@
+This was a regular traffic light project with additional features.
